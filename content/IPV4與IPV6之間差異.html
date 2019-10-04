@@ -156,7 +156,7 @@ init_mathjax();
 <p></p>
 <p><strong>位址表示方式</strong></p>
 <p>IPv4的IP位址是由32位元所組成，原始的表示方式是8個位元為一個單位，分4個部分。每個部分以2進位表示，並以「.」做區隔，譬如：「10110110.11101001.01001100.11111111」。</p>
-<p>不過這樣的表示法太長，不便記憶。所以通常都以10進位的方法表示，而每個部份的數字會呈現0至255的整數，譬如iThome網站的IP位址為210.59.230.150。</p>
+<p>不過這樣的表示法太長，不便記憶。所以通常都以10進位的方法表示，而每個部份的數字會呈現0至255的整數。</p>
 <p>而IPv6的IP位址則是128位元組成，表示方式是使用8組數字，每組為4個字元的16進位方法表示。而區隔每個部分的方式亦與IPv4不同，是以「:」表示。譬如「1079:0BD3:6ED4:1D71:414B:2E2A:7144:72BE」，這樣就是一組標準的IPv6網路位址。</p>
 <p>不過IPv6的位址表示法太長，所以位址有所謂的省略規則，以下為2個位址省略規則：</p>
 <p>規則1：為每組數字的第一個0可以省略，若整組皆為0，則以0表示。譬如，「0DB8」可以省略為「DB8」，「0000」則為「0」。</p>
@@ -169,8 +169,8 @@ init_mathjax();
 <p>而IPv6亦增加了Flow Label及Priority等兩個欄位，它們的功能是用來支援像視訊、語音這類即時服務的需求，以提高QoS的品質。</p>
 <p>就Flow Label欄位來說，IPv6的封包能夠在該欄位留下標記。在傳輸時，一連串的封包會要求所經過的路由器，提供特別的處理。而路由器則會透過該欄位，辨識封包的Flow Level；而Priority則可以設定封包傳輸的優先順序，透過這欄位的檢查，讓較重要的封包優先傳送。</p>
 <p>除此之外，IPv6在安全、擴充等功能上，加強了IPv4缺乏的部份。像安全性方面，IPv6預設有IPSec，來提升安全性。相較之下，IPv4的IPSec則需要額外開啟。而擴充方面，IPv4只能使用Option欄位，而IPv6除了將基本表頭簡化外，還可以任意加上多個擴充表頭使用。</p>
-<p><span></span></p>
-<br />week2 << <a href='week2.html'>Previous</a> <a href='week3.html'>Next</a> >> week3</div>
+<p><span></span>參考資料<a href="https://www.ithome.com.tw/tech/92046">https://www.ithome.com.tw/tech/92046</a></p>
+<p><a href="https://www.ibm.com/support/knowledgecenter/zh-tw/ssw_ibm_i_71/rzai2/rzai2compipv4ipv6.htm#rzai2compipv4ipv6__compportrestrict">https://www.ibm.com/support/knowledgecenter/zh-tw/ssw_ibm_i_71/rzai2/rzai2compipv4ipv6.htm#rzai2compipv4ipv6__compportrestrict</a></p><br />week2 << <a href='week2.html'>Previous</a> <a href='week3.html'>Next</a> >> week3</div>
         
     <!-- footer -->
       <div class="container">
