@@ -24,6 +24,30 @@
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20191108001410.1"><vh>weekly progress</vh>
+<v t="leo.20191108001410.2"><vh>每周進度</vh></v>
+</v>
+<v t="leo.20191108002408.1"><vh>week1</vh>
+<v t="leo.20191108002408.2"><vh>每周進度</vh></v>
+</v>
+<v t="leo.20191108002411.1"><vh>week2</vh>
+<v t="leo.20191108002411.2"><vh>每周進度</vh></v>
+</v>
+<v t="leo.20191108002413.1"><vh>week3</vh>
+<v t="leo.20191108002413.2"><vh>每周進度</vh></v>
+</v>
+<v t="leo.20191108002416.1"><vh>week5</vh>
+<v t="leo.20191108002416.2"><vh>每周進度</vh></v>
+</v>
+<v t="leo.20191108002418.1"><vh>week6</vh>
+<v t="leo.20191108002418.2"><vh>每周進度</vh></v>
+</v>
+<v t="leo.20191108002422.1"><vh>week7</vh>
+<v t="leo.20191108002422.2"><vh>每周進度</vh></v>
+</v>
+<v t="leo.20191108002529.1"><vh>week8</vh>
+<v t="leo.20191108002529.2"><vh>每周進度</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -322,5 +346,158 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191108001410.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108001410.2"># weekly progress
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
+<t tx="leo.20191108002408.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108002408.2"># week1
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+             ipv4 vs ipv6
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
+<t tx="leo.20191108002411.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108002411.2"># weekly progress
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
+<t tx="leo.20191108002413.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108002413.2"># weekly progress
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
+<t tx="leo.20191108002416.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108002416.2"># weekly progress
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
+<t tx="leo.20191108002418.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108002418.2"># weekly progress
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
+<t tx="leo.20191108002422.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108002422.2"># weekly progress
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
+<t tx="leo.20191108002529.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108002529.2"># weekly progress
+
+* week1 基本倉儲建立觀念
+* week2 建立倉儲之步驟
+* week3 solvespace 編譯
+* week5 使用slovespace繪製工程圖
+* week6 verp中新增start與stop按鈕
+* week7在solvespace about 中添加學號
+
+</t>
 </tnodes>
 </leo_file>
