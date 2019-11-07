@@ -377,10 +377,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191108002408.2"># week1
 
 * week1 基本倉儲建立觀念
-* week2 建立倉儲之步驟 &amp;IP4 ipv6
-123
-
-
+* week2 建立倉儲之步驟 
+@@@ IPV4
 * week3 solvespace 編譯
 * week5 使用slovespace繪製工程圖
 * week6 verp中新增start與stop按鈕
