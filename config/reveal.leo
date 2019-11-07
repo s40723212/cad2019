@@ -378,7 +378,7 @@ vertical: body pane on the botton</t>
 
 * week1 基本倉儲建立觀念
 * week2 建立倉儲之步驟 
-@@@ IPV4
+*** IPV4
 * week3 solvespace 編譯
 * week5 使用slovespace繪製工程圖
 * week6 verp中新增start與stop按鈕
