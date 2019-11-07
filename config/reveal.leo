@@ -359,8 +359,8 @@ vertical: body pane on the botton</t>
 
 * week1 基本倉儲建立觀念
 * week2 建立倉儲之步驟
-*** IPV4 vs IPV6
-*** 無法提交網頁內容
+% IPV4 vs IPV6
+% 無法提交網頁內容
 * week3 solvespace 編譯
 *** solvespace 無法長出實體零件
 * week5 使用slovespace繪製工程圖
