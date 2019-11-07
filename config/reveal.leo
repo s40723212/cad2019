@@ -355,7 +355,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108001410.2"># weekly progress
+<t tx="leo.20191108001410.2">## weekly progress
 
 * week1 基本倉儲建立觀念
 * week2 建立倉儲之步驟
