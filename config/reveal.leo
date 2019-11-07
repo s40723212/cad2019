@@ -359,13 +359,13 @@ vertical: body pane on the botton</t>
 
 * week1 基本倉儲建立觀念
 * week2 建立倉儲之步驟
-% IPV4 vs IPV6
-% 無法提交網頁內容
+   * IPV4 vs IPV6
+   * 無法提交網頁內容
 * week3 solvespace 編譯
-*** solvespace 無法長出實體零件
+   * solvespace 無法長出實體零件
 * week5 使用slovespace繪製工程圖
 * week6 verp中新增start與stop按鈕
-*** python if 語法
+   * python if 語法
 * week7在solvespace about 中添加學號
 * week8 將webots 導入 start .bat與 stop .bat 中
 
