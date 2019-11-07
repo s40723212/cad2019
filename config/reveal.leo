@@ -28,25 +28,28 @@
 <v t="leo.20191108001410.2"><vh>每周進度</vh></v>
 </v>
 <v t="leo.20191108002408.1"><vh>week1</vh>
-<v t="leo.20191108002408.2"><vh>每周進度</vh></v>
+<v t="leo.20191108002408.2"><vh>week1</vh></v>
 </v>
 <v t="leo.20191108002411.1"><vh>week2</vh>
-<v t="leo.20191108002411.2"><vh>每周進度</vh></v>
+<v t="leo.20191108002411.2"><vh>week2</vh></v>
 </v>
 <v t="leo.20191108002413.1"><vh>week3</vh>
-<v t="leo.20191108002413.2"><vh>每周進度</vh></v>
+<v t="leo.20191108002413.2"><vh>week3</vh></v>
 </v>
 <v t="leo.20191108002416.1"><vh>week5</vh>
-<v t="leo.20191108002416.2"><vh>每周進度</vh></v>
+<v t="leo.20191108002416.2"><vh>week5</vh></v>
 </v>
 <v t="leo.20191108002418.1"><vh>week6</vh>
-<v t="leo.20191108002418.2"><vh>每周進度</vh></v>
+<v t="leo.20191108002418.2"><vh>week6-1</vh></v>
+<v t="leo.20191108015440.1"><vh>week6</vh>
+<v t="leo.20191108015440.2"><vh>week6-2</vh></v>
+</v>
 </v>
 <v t="leo.20191108002422.1"><vh>week7</vh>
-<v t="leo.20191108002422.2"><vh>每周進度</vh></v>
+<v t="leo.20191108002422.2"><vh>weel7</vh></v>
 </v>
 <v t="leo.20191108002529.1"><vh>week8</vh>
-<v t="leo.20191108002529.2"><vh>每周進度</vh></v>
+<v t="leo.20191108002529.2"><vh>week8</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -359,8 +362,8 @@ vertical: body pane on the botton</t>
 
 * week1 基本倉儲建立觀念
 * week2 建立倉儲之步驟
-   ####* IPV4 vs IPV6
-   ####* 無法提交網頁內容
+   * IPV4 vs IPV6
+   * 無法提交網頁內容
 * week3 solvespace 編譯
    * solvespace 無法長出實體零件
 * week5 使用slovespace繪製工程圖
@@ -379,10 +382,12 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108002408.2"># week1
+<t tx="leo.20191108002408.2">## week1
 
 使用github新建倉儲
-&lt;iframe src="https://www.youtube.com/watch?time_continue=1&amp;v=2MsN8gpT6jY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="640" height="492" src="https://www.youtube.com/watch?time_continue=1&amp;v=2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 </t>
 <t tx="leo.20191108002411.1">&lt;section data-markdown&gt;
@@ -394,14 +399,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108002411.2"># weekly progress
+<t tx="leo.20191108002411.2">## week2
 
-* week1 基本倉儲建立觀念
-* week2 建立倉儲之步驟
-* week3 solvespace 編譯
-* week5 使用slovespace繪製工程圖
-* week6 verp中新增start與stop按鈕
-* week7在solvespace about 中添加學號
+開啟倉儲及編輯近端
+&lt;iframe width="640" height="492" src="https://www.youtube.com/watch?v=CpkhXfev2Wk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20191108002413.1">&lt;section data-markdown&gt;
@@ -413,14 +414,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108002413.2"># weekly progress
+<t tx="leo.20191108002413.2">## week3
 
-* week1 基本倉儲建立觀念
-* week2 建立倉儲之步驟
-* week3 solvespace 編譯
-* week5 使用slovespace繪製工程圖
-* week6 verp中新增start與stop按鈕
-* week7在solvespace about 中添加學號
+solvespace編譯
+&lt;iframe width="640" height="492" src="https://youtu.be/ii49mGL2yco" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 </t>
 <t tx="leo.20191108002416.1">&lt;section data-markdown&gt;
@@ -432,14 +430,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108002416.2"># weekly progress
+<t tx="leo.20191108002416.2">## week5
 
-* week1 基本倉儲建立觀念
-* week2 建立倉儲之步驟
-* week3 solvespace 編譯
-* week5 使用slovespace繪製工程圖
-* week6 verp中新增start與stop按鈕
-* week7在solvespace about 中添加學號
+使用slovespace 繪製工程圖
+&lt;iframe width="640" height="492" src="https://youtu.be/XEcsoWDDu14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20191108002418.1">&lt;section data-markdown&gt;
@@ -451,15 +445,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108002418.2"># weekly progress
+<t tx="leo.20191108002418.2">## week6-1
 
-* week1 基本倉儲建立觀念
-* week2 建立倉儲之步驟
-* week3 solvespace 編譯
-* week5 使用slovespace繪製工程圖
-* week6 verp中新增start與stop按鈕
-* week7在solvespace about 中添加學號
-
+繪製零件圖
+&lt;iframe width="640" height="492" src="https://youtu.be/OjdRZJX3Vwg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20191108002422.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -470,16 +459,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108002422.2"># weekly progress
+<t tx="leo.20191108002422.2">## week7
 
-* week1 基本倉儲建立觀念
-* week2 建立倉儲之步驟
-* week3 solvespace 編譯
-* week5 使用slovespace繪製工程圖
-* week6 verp中新增start與stop按鈕
-* week7在solvespace about 中添加學號
-
-</t>
+slovespace about 中加入學號
+&lt;iframe width="640" height="492" src="https://youtu.be/fQbkZnO--KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191108002529.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -489,15 +472,23 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108002529.2"># weekly progress
+<t tx="leo.20191108002529.2">## week8
 
-* week1 基本倉儲建立觀念
-* week2 建立倉儲之步驟
-* week3 solvespace 編譯
-* week5 使用slovespace繪製工程圖
-* week6 verp中新增start與stop按鈕
-* week7在solvespace about 中添加學號
+將webots導入start.bat和stop .bat中
+&lt;iframe width="640" height="492" src="https://youtu.be/TkKCwxLuTKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191108015440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
+</t>
+<t tx="leo.20191108015440.2">## week6-2
+
+v rap 嵌入start stop 按鈕
+&lt;iframe width="640" height="492" src="https://youtu.be/c2lBRfNvWzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
