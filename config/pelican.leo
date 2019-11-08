@@ -61,13 +61,15 @@
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="leo.20191101140150.1"><vh>@edit test.md</vh></v>
 </v>
+<v t="leo.20191108205507.1"><vh>pages_1.md</vh>
+<v t="leo.20191108205507.2"><vh>@edit test.md</vh></v>
+</v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2018</vh>
 <v t="leo.20180423103639.1"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
-<v t="leo.20180909205246.1"><vh>@edit 20180911.md</vh></v>
 </v>
 </v>
 </v>
@@ -101,6 +103,17 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20191108205507.1">Title: About
+
+## CMSimfly 內容管理網誌
+
+課程倉儲: &lt;a href="https://github.com/s40723212/cad2019"&gt;https://github.com/s40723212/cad2019&lt;/a&gt;
+
+內容管理: &lt;a href="https://chiamingyen.github.io/cmsimfly/"&gt;https://chiamingyen.github.io/cmsimfly/&lt;/a&gt;
+
+課程投影片: &lt;a href="https://s40723212.github.io/cad2019/reveal/index.html#/"&gt;https://s40723212.github.io/cad2019/reveal/index.html#/&lt;/a&gt;
+
+課程網誌: &lt;a href="https://s40723212.github.io/cad2019/content/index.html"&gt;https://s40723212.github.io/cad2019/content/index.html&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
