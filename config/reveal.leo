@@ -51,6 +51,9 @@
 <v t="leo.20191108002529.1"><vh>week8</vh>
 <v t="leo.20191108002529.2"><vh>week8</vh></v>
 </v>
+<v t="leo.20191108141622.1"><vh>The end</vh>
+<v t="leo.20191108141622.2"><vh>the end</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -499,5 +502,16 @@ slovespace about 中加入學號
 v rap 嵌入start stop 按鈕
 
 &lt;iframe width="526" height="310" src="https://www.youtube.com/embed/c2lBRfNvWzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191108141622.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108141622.2">The end
+## Thanks for watching my reveal</t>
 </tnodes>
 </leo_file>
