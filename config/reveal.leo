@@ -447,6 +447,7 @@ solvespace編譯
 <t tx="leo.20191108002418.2">## week6-1
 
 繪製零件圖
+
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/OjdRZJX3Vwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20191108002422.1">&lt;section data-markdown&gt;
@@ -487,6 +488,7 @@ slovespace about 中加入學號
 <t tx="leo.20191108015440.2">## week6-2
 
 v rap 嵌入start stop 按鈕
+
 &lt;iframe width="526" height="310" src="https://www.youtube.com/embed/c2lBRfNvWzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
