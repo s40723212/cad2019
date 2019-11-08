@@ -46,7 +46,7 @@
 </v>
 </v>
 <v t="leo.20191108002422.1"><vh>week7</vh>
-<v t="leo.20191108002422.2"><vh>weel7</vh></v>
+<v t="leo.20191108002422.2"><vh>week7</vh></v>
 </v>
 <v t="leo.20191108002529.1"><vh>week8</vh>
 <v t="leo.20191108002529.2"><vh>week8</vh></v>
@@ -386,7 +386,7 @@ vertical: body pane on the botton</t>
 
 使用github新建倉儲
 
-&lt;iframe width="640" height="492" src="https://www.youtube.com/watch?time_continue=1&amp;v=2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -402,8 +402,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191108002411.2">## week2
 
 開啟倉儲及編輯近端
-&lt;iframe width="640" height="492" src="https://www.youtube.com/watch?v=CpkhXfev2Wk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/CpkhXfev2Wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20191108002413.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -417,8 +416,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191108002413.2">## week3
 
 solvespace編譯
-&lt;iframe width="640" height="492" src="https://youtu.be/ii49mGL2yco" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/ii49mGL2yco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20191108002416.1">&lt;section data-markdown&gt;
@@ -433,7 +431,8 @@ solvespace編譯
 <t tx="leo.20191108002416.2">## week5
 
 使用slovespace 繪製工程圖
-&lt;iframe width="640" height="492" src="https://youtu.be/XEcsoWDDu14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/XEcsoWDDu14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20191108002418.1">&lt;section data-markdown&gt;
@@ -448,7 +447,7 @@ solvespace編譯
 <t tx="leo.20191108002418.2">## week6-1
 
 繪製零件圖
-&lt;iframe width="640" height="492" src="https://youtu.be/OjdRZJX3Vwg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/OjdRZJX3Vwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20191108002422.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -462,7 +461,7 @@ solvespace編譯
 <t tx="leo.20191108002422.2">## week7
 
 slovespace about 中加入學號
-&lt;iframe width="640" height="492" src="https://youtu.be/fQbkZnO--KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="526" height="310" src="https://www.youtube.com/embed/fQbkZnO--KA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191108002529.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -475,7 +474,7 @@ slovespace about 中加入學號
 <t tx="leo.20191108002529.2">## week8
 
 將webots導入start.bat和stop .bat中
-&lt;iframe width="640" height="492" src="https://youtu.be/TkKCwxLuTKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="536" height="310" src="https://www.youtube.com/embed/TkKCwxLuTKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191108015440.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -488,7 +487,6 @@ slovespace about 中加入學號
 <t tx="leo.20191108015440.2">## week6-2
 
 v rap 嵌入start stop 按鈕
-&lt;iframe width="640" height="492" src="https://youtu.be/c2lBRfNvWzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="526" height="310" src="https://www.youtube.com/embed/c2lBRfNvWzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
