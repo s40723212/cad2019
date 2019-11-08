@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2019-11-08T21:37:47-00:00</lastmod>
+<lastmod>2019-11-08T21:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2019-11-08T21:37:47-00:00</lastmod>
+<lastmod>2019-11-08T21:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2019-11-08T21:37:47-00:00</lastmod>
+<lastmod>2019-11-08T21:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2019-11-08T21:37:47-00:00</lastmod>
+<lastmod>2019-11-08T21:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,15 +39,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./pages/s40723212/</loc>
-<lastmod>2019-11-08T21:37:43+08:00</lastmod>
+<loc>./pages/s40723212qi-zhong-bao-gao/</loc>
+<lastmod>2019-11-08T21:43:33+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./about.html</loc>
-<lastmod>2019-11-08T21:34:36+08:00</lastmod>
+<loc>./s40723212qi-zhong-bao-gao.html</loc>
+<lastmod>2019-11-08T21:43:33+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2019-11-08T21:34:36+08:06</lastmod>
+<lastmod>2019-11-08T21:43:33+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -74,8 +74,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./author/kmol.html</loc>
-<lastmod>2019-11-08T21:34:36+08:06</lastmod>
+<loc>./author/s40723212.html</loc>
+<lastmod>2019-11-08T21:43:33+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

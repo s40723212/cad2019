@@ -103,7 +103,8 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20191108205507.1">Title: 期中報告
+<t tx="leo.20191108205507.1">@language md
+Title: s40723212期中報告
 
 ## CMSimfly 內容管理網誌
 
@@ -111,7 +112,7 @@ g.es("admin pelican Github 執行完畢")
 
 [課程投影片](https://s40723212.github.io/cad2019/reveal/index.html#/)
 
-[課程網誌] (https://s40723212.github.io/cad2019/content/index.html)</t>
+[課程網誌](https://s40723212.github.io/cad2019/content/index.html)</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
