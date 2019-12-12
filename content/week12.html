@@ -147,12 +147,58 @@ init_mathjax();
           </div>
           
         </header>
-    <div id="tipue_search_content"> <a href='week1-5.html'>Next</a> >> week1-5<br /><h1>weeks</h1>
-<p><a href="https://s40723212.github.io/cad2019/content/week1-5.html">week1-5</a></p>
-<p><a href="https://s40723212.github.io/cad2019/content/week6-9.html">week6-9</a></p>
-<p><a href="https://s40723212.github.io/cad2019/content/week10-14.html">week10-14</a></p>
-<p><a href="https://s40723212.github.io/cad2019/content/week15-18.html">week15-18</a></p>
-<br /> <a href='week1-5.html'>Next</a> >> week1-5</div>
+    <div id="tipue_search_content">week11 << <a href='week11.html'>Previous</a> <a href='week13.html'>Next</a> >> week13<br /><h1>week12</h1>
+<p><a href="http://mde.tw/cad2019/downloads/NX-12-for-Engineering-Design.pdf" target="_blank"></a></p>
+<p>NX  Unit 8 translation </p>
+<p>第八章有限元素分析</p>
+<p>有限元素分析<span>(FEA)</span>是一種實用的有限元素法<span>(FEM)</span>，它可以預測結構及流體中的壓力、熱量、震動和力量的反應行為，通常該行為從創作模型開始，接著將模型細分為相同的網狀幾何形狀且連結在特定節點上，其材料特性及邊界狀況適用於任意原件上。</p>
+<p>最後，如<span>NX12</span>軟體解決了<span>FEA</span>、輸出及可視化，這些東西幫助工程師在成品製作及測試過程前更進一步了解產品性能。</p>
+<p>FEA的應用包含了結構分析、熱分析、流體力學、和電磁兼容性，此外<span>FEA</span>也常被用來計算結構及固體力學的機械性能<span>(</span>應力和位移<span>)</span>，這些行為可用於預測機械硬體的損壞，在本章節我們將探討實體零件的結構應力和應變分析。</p>
+<p>總覽</p>
+<p>8-1元件形狀和節點</p>
+<p>可將元件中的維數及節點點數將元件分成不同類型，以下適用於離散化的某些函數類型。</p>
+<p> </p>
+<p>一維單元</p>
+<p> </p>
+<p> <img caption="false" height="158" src="https://s40723212.github.io/cad2019bg1/images/one%20dimensional%20element.PNG" width="500"/></p>
+<p> </p>
+<p>二維單元</p>
+<p>三角形</p>
+<p> <img alt="" height="160" src="https://s40723212.github.io/cad2019bg1/images/two%20dimensional%20element%20-triangular.PNG" width="500"/></p>
+<p> </p>
+<p>四邊形</p>
+<p> <img alt="" height="169" src="https://s40723212.github.io/cad2019bg1/images/two%20dimensional%20element%20-quadrilateral.PNG" width="500"/></p>
+<p>三維單元</p>
+<p>四面體（具有四個三角形面的實體）</p>
+<p> </p>
+<p> <img alt="" height="175" src="https://s40723212.github.io/cad2019bg1/images/three%20dimensional%20elements%20-tetrahedral%20(a%20soild%20with%20triangular%20faces).PNG" width="500"/></p>
+<p> </p>
+<p>六面體（具有<span>6</span>個四邊形面的實體）</p>
+<p> <img alt="" height="166" src="https://s40723212.github.io/cad2019bg1/images/three%20dimensional%20element%20-hexahedral%20(a%20soild%20with%206%20quadrilateral%20faces).PNG" width="500"/></p>
+<p>節點類型</p>
+<p><br/> 8-1-2解決步驟通常當有限元素質較小時<span>FEA</span>能有更精確的答案，但運算時間也會變得更長。</p>
+<p>開始模擬<span>:</span>你可以在下列運算器中找到解決方法如NX Nastran, NX Nastran Acoustic, NX Nastran Vibro-Acoustic, NX Nastran Design, Samcef, NX Thermal/Flow, Simcenter Electronic Systems Cooling, Simcenter Space Systems Thermal, NX Multiphysics, Simcenter Acoustics BEM, MSC Nastran, Ansys, Abaqus, 和LS-DYNA，除此之外你可以選擇你要分析的形式，在這在本教程中只有結構分析將會被NX Nastran Design取代顯示</p>
+<p> 選擇材料特性:這允許你改變材料特性並將其分配給模型，如果我們使用鋼材製作葉倫，我們可以使用如密度、帕鬆比等材料特性，這些材料特性利於實驗室保存供未來使用，或是可以從材料庫中檢索。</p>
+<p> 施加應力:此舉可讓你施加不同類型的負載，如力量和壓力沿著固體作用方向和大小。</p>
+<p> 應用邊界條件:簡單來說，邊界條件限制了元件在空間中的自由度，某些元件可以限制其旋轉運動爾，而某些可以限制其元件進行平移運動。</p>
+<p></p>
+<p>NX12 unit8</p>
+<p>葉輪(impeller)葉片</p>
+<p>1.將檔案名稱設定為Impeller_impeller.prt</p>
+<p>2.將單位更改至英制單位</p>
+<p>3.設定草圖平面，並繪製兩點(0,0,0)及(11.75,6,0)</p>
+<p>4.繪製兩個半徑分別為1.5及0.5之圓弧在剛剛定義之兩點上</p>
+<p>5.繪製相交圓弧將這兩個圓弧相連，而這兩個圓弧之吋為15及18</p>
+<p>6.由路徑more/geimetic constrain/tangent定義曲線相交</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/7H4GU7vrWkM" width="500"></iframe></p>
+<p>錐形軸</p>
+<p>1.建立新的模型將其檔名命名為 Impeller_shaft.prt，並將其單位制度改成英制</p>
+<p>2.選定基準面畫出<span>Ø4的圓，完成後按finsh鍵並長出高度18的圓柱</span></p>
+<p><span>3.依照路徑insert-desigh fecture -corn 完成Ø4*6*10之圓錐</span></p>
+<p><span>4.依照第一步驟完成Ø6*20之圓柱</span></p>
+<p><span>5.完成零件</span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/23rPm6Es9BY" width="500"></iframe></p>
+<hr/><br />week11 << <a href='week11.html'>Previous</a> <a href='week13.html'>Next</a> >> week13</div>
         
     <!-- footer -->
       <div class="container">
