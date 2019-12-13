@@ -56,7 +56,9 @@
 </v>
 <v t="leo.20191213133014.1"><vh>week12</vh>
 <v t="leo.20191213133014.2"><vh>week12</vh></v>
-<v t="leo.20191213134925.1"><vh>week12</vh></v>
+</v>
+<v t="leo.20191213141221.1"><vh>week12</vh>
+<v t="leo.20191213141221.3"><vh>week12</vh></v>
 </v>
 <v t="leo.20191213133016.1"><vh>week13</vh>
 <v t="leo.20191213133016.2"><vh>week13</vh></v>
@@ -564,7 +566,16 @@ NX Unit8 translation
 
 webots 課程一
 &lt;iframe width="500" height="314" src="https://www.youtube.com/embed/3OmGxKxAlxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20191213134925.1">## week12
+<t tx="leo.20191213141221.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213141221.3">## week12
 
 錐形軸繪製
 &lt;iframe width="500" height="314" src="https://www.youtube.com/embed/23rPm6Es9BY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
