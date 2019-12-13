@@ -51,6 +51,16 @@
 <v t="leo.20191108002529.1"><vh>week8</vh>
 <v t="leo.20191108002529.2"><vh>week8</vh></v>
 </v>
+<v t="leo.20191213133006.1"><vh>week10</vh>
+<v t="leo.20191213133006.2"><vh>week10</vh></v>
+</v>
+<v t="leo.20191213133014.1"><vh>week12</vh>
+<v t="leo.20191213133014.2"><vh>week12</vh></v>
+<v t="leo.20191213134925.1"><vh>week12</vh></v>
+</v>
+<v t="leo.20191213133016.1"><vh>week13</vh>
+<v t="leo.20191213133016.2"><vh>week13</vh></v>
+</v>
 <v t="leo.20191108141622.1"><vh>The end</vh>
 <v t="leo.20191108141622.2"><vh>the end</vh></v>
 </v>
@@ -513,5 +523,50 @@ v rap 嵌入start stop 按鈕
 </t>
 <t tx="leo.20191108141622.2">The end
 ## Thanks for watching my reveal</t>
+<t tx="leo.20191213133006.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213133006.2">## week10
+
+使用virtualbox 開啟NX12
+&lt;iframe width="500" height="314" src="https://www.youtube.com/embed/ROoLws1QiSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191213133014.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213133014.2">## week12
+
+NX Unit8 translation
+
+葉輪(impeller)繪製
+&lt;iframe width="500" height="314" src="https://www.youtube.com/embed/7H4GU7vrWkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191213133016.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213133016.2">## week13
+
+webots 課程一
+&lt;iframe width="500" height="314" src="https://www.youtube.com/embed/3OmGxKxAlxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191213134925.1">## week12
+
+錐形軸繪製
+&lt;iframe width="500" height="314" src="https://www.youtube.com/embed/23rPm6Es9BY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
