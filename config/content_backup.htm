@@ -257,7 +257,31 @@
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/3OmGxKxAlxI" width="500"></iframe></p>
 <p><strong>tutorial two</strong></p><h3>week14</h3>
 <p>webots</p>
-<p>tutorial two</p>
+<p><a href="https://cyberbotics.com/doc/guide/tutorial-2-modification-of-the-environment" target="_blank">課程二.</a></p>
+<p>在本教程中你將學到如何在一般環境下新增簡單物件，第一步驟你將新增一個能與你被景互動的球體。我們將處理幾個有關節點的概念，如他們各自代表的意義、如何新增他們，及如何加入關聯性等等.....，此外我們將學到如何設定物理量。</p>
+<p>數種節點將會被介紹，它們的細節都可以在手冊中找到，擁有節點圖表將有助於理解節點之間的關係。</p>
+<p>實心節點(solid node)代表鋼體，而這物體可忽略他的行變，在鋼體中任意兩點之距離不受外力影響改變距離，如機械指骨、輪子、桌子都是鋼體的代表。軟體(soft  bodies)及關節物體都不屬於鋼體，如繩索，輪胎，海綿或關節機械臂。但是，可以將一個鉸接的物體分解為幾個剛體。</p>
+<p>在webots物理引擎中是設計只用來模擬鋼體，在模擬設計中，最重要的一步為將各種實體拆解成不同的鋼體。</p>
+<p>第一步驟:將課程一<span>my_first_simulation.wbt檔案使用File / Save World As...另存成檔名為obstacles.wbt</span></p>
+<p>第二步驟:使用Delt將原本的背景移除，並使用<span>PROTO nodes (Webots Projects) / objects / floors / Floor (Solid)新增場景。</span></p>
+<p>第三步驟:<span>將新建場景之尺寸更改為1*1</span></p>
+<p>第四步驟:在最後的節點中依照Add/Bases nodes/solid路徑新增solid節點，展開solid節點並在solid節點中的children資料夾中新增shape，選擇<span>appearance並加入PBRAppearance</span></p>
+<p>1.在geometry中新增sphere</p>
+<p>2.展開<span>PBRAppearance，並將其mentalness及roughness尺寸分別更改成0、1</span></p>
+<p><span>3.在boundingObjectv新增sphere</span></p>
+<p><span>4.在physis中新增physis</span></p>
+<p><span>5.將translation 資料夾中的尺寸更改為0,0.2-0.2</span></p>
+<p><span>6.儲存</span></p>
+<p>7.結果顯示如下圖所示</p>
+<p><img alt="" height="323" src="/images/tutorial 2-1.PNG" width="600"/></p>
+<p>第五步驟:在任意sphere節點中將radius及subdivision的尺寸更改成0.05和2</p>
+<p><img alt="" height="322" src="/images/tutorial 2-2.PNG" width="600"/></p>
+<p>第六步驟:選擇第一個sphere(位於children中的子目錄)，檔案編輯器將會允許你輸入DEF</p>
+<p>1.在這個資料夾中輸入BALL_GEOMETRY</p>
+<p>2.選擇bounding0ject資料夾(位於第二個sphere節點中)並使用滑鼠右鍵中的Delt清空資料夾中的內容。</p>
+<p>3.</p>
+<p>第七步驟:</p>
+<p>第八步驟:</p>
 <p>tutorial three</p>
 <p>tutorial four</p>
 <p>tutorial five</p>
@@ -363,7 +387,7 @@ else :
 <p><span>此範例的寬度與高度設定都是以 px 為單位，這也是大部分瀏覽器（browser）的預設值，px 有沒有寫通常沒有影響（建議還是寫出來比較不容易出錯），但如果採用百分比做為單位，就一定要寫出來，否則光寫數字會造成瀏覽器的誤判，以為是要以 px 為單位，再來「frameborder="0"」代表不顯示邊框、「scrolling="no"」代表不顯示卷軸，基本上 HTML iframe 的概念就這麼簡單。</span></p>
 <p><span>資料來源:<a href="http://www.webtech.tw/info.php?tid=99">http://www.webtech.tw/info.php?tid=99</a></span></p><h1>Question</h1>
 <p>可攜式NX無法開啟&amp;9443需要特定cmd才能開啟</p>
-<p></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/xzwkuHsymJU" width="500"></iframe></p>
 <p></p><h1>About</h1>
 <p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
 <h4>利用 cmsimde 建立靜態網誌方法:</h4>
