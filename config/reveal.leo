@@ -63,6 +63,9 @@
 <v t="leo.20191213133016.1"><vh>week13</vh>
 <v t="leo.20191213133016.2"><vh>week13</vh></v>
 </v>
+<v t="leo.20191220150304.1"><vh>week14</vh>
+<v t="leo.20191220150304.2"><vh>week13</vh></v>
+</v>
 <v t="leo.20191108141622.1"><vh>The end</vh>
 <v t="leo.20191108141622.2"><vh>the end</vh></v>
 </v>
@@ -579,5 +582,18 @@ webots 課程一
 
 錐形軸繪製
 &lt;iframe width="500" height="314" src="https://www.youtube.com/embed/23rPm6Es9BY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191220150304.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191220150304.2">## week13
+
+webots 課程二
+&lt;iframe width="893" height="479" src="https://www.youtube.com/embed/cuIcd_KHkEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
