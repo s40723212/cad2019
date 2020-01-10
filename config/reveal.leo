@@ -646,8 +646,11 @@ week15進度檢視
 <t tx="leo.20200110092203.2">## week17
 
 Q3分組協同有時候會遇到如圖之問題，無法使用git pull同步網誌內容
+&lt;small&gt;
+* [QA3](https://s40723212.github.io/cad2019/content/Question.html)
+&lt;/small&gt;
 
-&lt;a&gt;&lt;img src="https://drive.google.com/file/d/1FWFRkM5POWERIx76fgaBu-G9ELYUJY2h/view?usp=sharing"width= "800" high= "500"&gt;
+
 
 </t>
 <t tx="leo.20200110111552.1">&lt;section data-markdown&gt;
@@ -665,13 +668,16 @@ Q3分組協同有時候會遇到如圖之問題，無法使用git pull同步網�
 &lt;small&gt;
 * [NX12 有限元素分析](https://s40723212.github.io/cad2019bg1/content/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%9C%89%E9%99%90%E5%85%83%E7%B4%A0%E5%88%86%E6%9E%90.html)
 * [QA1 ](https://s40723212.github.io/cad2019/content/Question.html)
+ &lt;/small&gt;
 
 * week16將solvespace 繪製的檔案導入webots 與 vrep 中
 &lt;small&gt;
 * [QA2](https://s40723212.github.io/cad2019/content/Question.html)
+&lt;/small&gt;
 
 * week17 排除無法git pull的問題
 &lt;small&gt;
-* [QA3](https://s40723212.github.io/cad2019/content/Question.html)</t>
+* [QA3](https://s40723212.github.io/cad2019/content/Question.html)
+&lt;/small&gt;</t>
 </tnodes>
 </leo_file>
