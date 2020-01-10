@@ -288,10 +288,110 @@
 <p>week15</p>
 <p>自評</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/SJsyuWkG8KI" width="500"></iframe></p>
+<hr/>
 <p>week16</p>
 <p>將solvespace 繪製的檔案導入webots 與 vrep 中</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/G6OIEN3b1bE" width="500"></iframe></p>
+<hr/>
 <p>week17</p>
+<p>Q3分組協同有時候會遇到如圖之問題，無法使用git pull同步網誌內容</p>
+<p><img alt="" height="111" src="/images/%E7%84%A1%E6%B3%95%E5%90%88%E4%BD%B5%E4%B9%8B%E5%95%8F%E9%A1%8C.PNG" width="600"/></p>
+<p>A3<span>一樣使用add,commit,push，依照下面指令即可解決問題</span></p>
+<p>git pull /git add . /git commit -m "    "/ git push / git pull/ git add . /git commit -m "   " / git push </p>
+<pre class="brush:plain;auto-links:false;toolbar:false" contenteditable="false">Microsoft Windows [Version 10.0.18362.535]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+Y:&gt;F:
+
+F:\201906_fall&gt;cd cad2019
+The system cannot find the path specified.
+
+F:\201906_fall&gt;cd ..
+
+F:&gt;cd cad2019bg1
+
+F:\cad2019bg1&gt;git pull
+remote: Enumerating objects: 19, done.
+remote: Counting objects: 100% (19/19), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 22 (delta 16), reused 18 (delta 16), pack-reused 3
+Unpacking objects: 100% (22/22), done.
+From https://github.com/s40723212/cad2019bg1
+b773e51..7d55fdf master -&gt; origin/master
+error: Your local changes to the following files would be overwritten by merge:
+content/week10-14.html
+content/week15-16.html
+content/week17-18.html
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+content/week17協同任務.html
+content/week18.html
+content/劉冠志.html
+content/曾信誠.html
+content/洪維辰.html
+content/高永霖&amp;顏士勛.html
+images/modelTut15.jpg
+images/modelTut16.jpg
+images/modelTut17.jpg
+images/modelTut18.jpg
+Please move or remove them before you merge.
+Aborting
+
+F:\cad2019bg1&gt;git add .
+
+F:\cad2019bg1&gt;git commit -m "解決git pull 問題"
+[master f323f5c] 解決git pull 問題
+14 files changed, 1268 insertions(+), 312 deletions(-)
+rewrite content/week10-14.html (69%)
+create mode 100644 "content/week17\345\215\224\345\220\214\344\273\273\345\213\231.html"
+create mode 100644 content/week18.html
+create mode 100644 "content/\345\212\211\345\206\240\345\277\227.html"
+copy content/week10-14.html =&gt; "content/\346\233\276\344\277\241\350\252\240.html" (66%)
+create mode 100644 "content/\346\264\252\347\266\255\350\276\260.html"
+create mode 100644 "content/\347\254\254\345\205\253\347\253\240"
+create mode 100644 "content/\351\253\230\346\260\270\351\234\226&amp;\351\241\217\345\243\253\345\213\233.html"
+create mode 100644 images/modelTut15.jpg
+create mode 100644 images/modelTut16.jpg
+create mode 100644 images/modelTut17.jpg
+create mode 100644 images/modelTut18.jpg
+
+F:\cad2019bg1&gt;git push
+Username for 'https://github.com': s40723212
+Password for 'https://s40723212@github.com':
+To https://github.com/s40723212/cad2019bg1
+! [rejected] master -&gt; master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/s40723212/cad2019bg1'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+F:\cad2019bg1&gt;git pull
+Auto-merging content/week17-18.html
+CONFLICT (content): Merge conflict in content/week17-18.html
+Auto-merging content/week15-16.html
+CONFLICT (content): Merge conflict in content/week15-16.html
+Automatic merge failed; fix conflicts and then commit the result.
+
+F:\cad2019bg1&gt;git add .
+
+F:\cad2019bg1&gt;git commit -m "解決git pull 問題"
+[master 642dbee] 解決git pull 問題
+
+F:\cad2019bg1&gt;git push
+Username for 'https://github.com': s40723212
+Password for 'https://s40723212@github.com':
+Enumerating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (11/11), 2.25 KiB | 2.25 MiB/s, done.
+Total 11 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas: 100% (8/8), completed with 6 local objects.
+To https://github.com/s40723212/cad2019bg1
+7d55fdf..642dbee master -&gt; master
+
+F:\cad2019bg1&gt;</pre>
 <p>week18</p>
 <p><span face="Helvetica" style="font-family: Helvetica;"><span size="16"></span></span></p><h1>note</h1>
 <p><a href="https://s40723212.github.io/cad2019/content/%E7%84%A1%E6%B3%95%E6%8F%90%E4%BA%A4%E8%BF%91%E7%AB%AF%E7%B6%B2%E9%A0%81%E6%89%80%E7%B7%A8%E8%BC%AF%E4%B9%8B%E5%85%A7%E5%AE%B9.html">無法提交近端網頁所編輯之內容</a></p>
