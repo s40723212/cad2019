@@ -66,6 +66,9 @@
 <v t="leo.20191220150304.1"><vh>week14</vh>
 <v t="leo.20191220150304.2"><vh>week14</vh></v>
 </v>
+<v t="leo.20200110111552.1"><vh>期末進度總整理</vh>
+<v t="leo.20200110111552.2"><vh>week15-17</vh></v>
+</v>
 <v t="leo.20200110092155.1"><vh>week15</vh>
 <v t="leo.20200110092155.2"><vh>week15</vh></v>
 </v>
@@ -615,7 +618,7 @@ webots 課程二
 </t>
 <t tx="leo.20200110092155.2">## week15
 
-week15
+week15進度檢視
 
 &lt;iframe width="500" height="314" src="https://www.youtube.com/embed/SJsyuWkG8KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200110092158.1">&lt;section data-markdown&gt;
@@ -629,7 +632,7 @@ week15
 </t>
 <t tx="leo.20200110092158.2">## week16
 
-
+將solvespace 繪製的檔案導入webots 與 vrep 中
 &lt;iframe width="500" height="314" src="https://www.youtube.com/embed/G6OIEN3b1bE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200110092203.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -642,7 +645,33 @@ week15
 </t>
 <t tx="leo.20200110092203.2">## week17
 
-webots 課程二
-&lt;iframe width="893" height="479" src="https://www.youtube.com/embed/cuIcd_KHkEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+Q3分組協同有時候會遇到如圖之問題，無法使用git pull同步網誌內容
+
+&lt;a&gt;&lt;img src="https://drive.google.com/file/d/1FWFRkM5POWERIx76fgaBu-G9ELYUJY2h/view?usp=sharing"width= "800" high= "500"&gt;
+
+</t>
+<t tx="leo.20200110111552.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110111552.2">## week15-17
+
+* week15進度檢視
+&lt;small&gt;
+* [NX12 有限元素分析](https://s40723212.github.io/cad2019bg1/content/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%9C%89%E9%99%90%E5%85%83%E7%B4%A0%E5%88%86%E6%9E%90.html)
+* [QA1 ](https://s40723212.github.io/cad2019/content/Question.html)
+
+* week16將solvespace 繪製的檔案導入webots 與 vrep 中
+&lt;small&gt;
+* [QA2](https://s40723212.github.io/cad2019/content/Question.html)
+
+* week17 排除無法git pull的問題
+&lt;small&gt;
+* [QA3](https://s40723212.github.io/cad2019/content/Question.html)</t>
 </tnodes>
 </leo_file>

@@ -289,6 +289,7 @@
 <p>自評</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/SJsyuWkG8KI" width="500"></iframe></p>
 <p>week16</p>
+<p>將solvespace 繪製的檔案導入webots 與 vrep 中</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/G6OIEN3b1bE" width="500"></iframe></p>
 <p>week17</p>
 <p>week18</p>
@@ -393,7 +394,26 @@ else :
 <p>Q2:編譯過的solvespace無法開啟，在升級筆電RAM之前是正常的，在升級完成後無法正常開啟</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/1PR_eFfbJqY" width="500"></iframe></p>
 <p>A2解決方法有兩個，第一個為重新編一次solvespace，第二個方法為重新下載solvespace。</p>
-<p>solvesapce 下載連結(記得下載13MB的)<a href="https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts">https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts</a></p><h1>About</h1>
+<p>solvesapce 下載連結(記得下載13MB的)<a href="https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts">https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts</a></p>
+<p>Q3分組協同有時候會遇到如圖之問題，無法使用git pull同步網誌內容</p>
+<p><img alt="" height="111" src="/images/無法合併之問題.PNG" width="600"/></p>
+<p>A3<span>一樣使用add,commit,push，依照下面指令即可解決問題</span></p>
+<p>git pull /git add . /git commit -m "    "/ git push / git pull/ git add . /git commit -m "   " / git push </p>
+<p>即可解決問題</p>
+<p>Microsoft Windows [Version 10.0.18362.535]<br/>(c) 2019 Microsoft Corporation. All rights reserved.</p>
+<p>Y:&gt;F:</p>
+<p>F:\201906_fall&gt;cd cad2019<br/>The system cannot find the path specified.</p>
+<p>F:\201906_fall&gt;cd ..</p>
+<p>F:&gt;cd cad2019bg1</p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git pull</span><br/>remote: Enumerating objects: 19, done.<br/>remote: Counting objects: 100% (19/19), done.<br/>remote: Compressing objects: 100% (3/3), done.<br/>remote: Total 22 (delta 16), reused 18 (delta 16), pack-reused 3<br/>Unpacking objects: 100% (22/22), done.<br/>From<span> </span><a href="https://github.com/s40723212/cad2019bg1">https://github.com/s40723212/cad2019bg1</a><br/>b773e51..7d55fdf master -&gt; origin/master<br/>error: Your local changes to the following files would be overwritten by merge:<br/>content/week10-14.html<br/>content/week15-16.html<br/>content/week17-18.html<br/>Please commit your changes or stash them before you merge.<br/>error: The following untracked working tree files would be overwritten by merge:<br/>content/week17協同任務.html<br/>content/week18.html<br/>content/劉冠志.html<br/>content/曾信誠.html<br/>content/洪維辰.html<br/>content/高永霖&amp;顏士勛.html<br/>images/modelTut15.jpg<br/>images/modelTut16.jpg<br/>images/modelTut17.jpg<br/>images/modelTut18.jpg<br/>Please move or remove them before you merge.<br/>Aborting</p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git add .</span></p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git commit -m "解決git pull 問題"</span><br/>[master f323f5c] 解決git pull 問題<br/>14 files changed, 1268 insertions(+), 312 deletions(-)<br/>rewrite content/week10-14.html (69%)<br/>create mode 100644 "content/week17\345\215\224\345\220\214\344\273\273\345\213\231.html"<br/>create mode 100644 content/week18.html<br/>create mode 100644 "content/\345\212\211\345\206\240\345\277\227.html"<br/>copy content/week10-14.html =&gt; "content/\346\233\276\344\277\241\350\252\240.html" (66%)<br/>create mode 100644 "content/\346\264\252\347\266\255\350\276\260.html"<br/>create mode 100644 "content/\347\254\254\345\205\253\347\253\240"<br/>create mode 100644 "content/\351\253\230\346\260\270\351\234\226&amp;\351\241\217\345\243\253\345\213\233.html"<br/>create mode 100644 images/modelTut15.jpg<br/>create mode 100644 images/modelTut16.jpg<br/>create mode 100644 images/modelTut17.jpg<br/>create mode 100644 images/modelTut18.jpg</p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git push</span><br/>Username for '<a href="https://github.com/">https://github.com</a>': s40723212<br/>Password for '<a href="https://s40723212@github.com/" rel="nofollow">https://s40723212@github.com</a>':<br/>To<span> </span><a href="https://github.com/s40723212/cad2019bg1">https://github.com/s40723212/cad2019bg1</a><br/>! [rejected] master -&gt; master (non-fast-forward)<br/>error: failed to push some refs to '<a href="https://github.com/s40723212/cad2019bg1">https://github.com/s40723212/cad2019bg1</a>'<br/>hint: Updates were rejected because the tip of your current branch is behind<br/>hint: its remote counterpart. Integrate the remote changes (e.g.<br/>hint: 'git pull ...') before pushing again.<br/>hint: See the 'Note about fast-forwards' in 'git push --help' for details.</p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git pull</span><br/>Auto-merging content/week17-18.html<br/>CONFLICT (content): Merge conflict in content/week17-18.html<br/>Auto-merging content/week15-16.html<br/>CONFLICT (content): Merge conflict in content/week15-16.html<br/>Automatic merge failed; fix conflicts and then commit the result.</p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git add .</span></p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git commit -m "解決git pull 問題"</span><br/>[master 642dbee] 解決git pull 問題</p>
+<p>F:\cad2019bg1&gt;<span style="color: #ff0000;">git push</span><br/>Username for '<a href="https://github.com/">https://github.com</a>': s40723212<br/>Password for '<a href="https://s40723212@github.com/" rel="nofollow">https://s40723212@github.com</a>':<br/>Enumerating objects: 19, done.<br/>Counting objects: 100% (19/19), done.<br/>Delta compression using up to 8 threads<br/>Compressing objects: 100% (11/11), done.<br/>Writing objects: 100% (11/11), 2.25 KiB | 2.25 MiB/s, done.<br/>Total 11 (delta 8), reused 0 (delta 0)<br/>remote: Resolving deltas: 100% (8/8), completed with 6 local objects.<br/>To<span> </span><a href="https://github.com/s40723212/cad2019bg1">https://github.com/s40723212/cad2019bg1</a><br/>7d55fdf..642dbee master -&gt; master</p>
+<p>F:\cad2019bg1&gt;</p><h1>About</h1>
 <p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
 <h4>利用 cmsimde 建立靜態網誌方法:</h4>
 <p>1. 在 github 建立倉儲, git clone 到近端</p>
